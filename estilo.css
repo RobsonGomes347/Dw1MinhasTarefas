@@ -6,7 +6,7 @@
 .pendente, .concluida, .excluida{
     text-align: center;
     color: white;
-    margin: 30px;
+    margin: 10px;
     border-radius: 30px;
     padding: 20px;
 }
